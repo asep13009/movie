@@ -1,0 +1,6 @@
+com/asep/movie/MovieApplication.class
+com/asep/movie/model/Film.class
+com/asep/movie/service/FilmService.class
+com/asep/movie/repository/FilmRepository.class
+com/asep/movie/implement/FilmImplement.class
+com/asep/movie/controller/FilmController.class
